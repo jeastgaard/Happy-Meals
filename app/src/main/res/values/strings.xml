@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Happy Meals</string>
+    <string name="localDatabaseStore">localUsers</string>
+    <string name="recipeCollection">Recipes</string>
+    <string name="ingredientCollection">Ingredients</string>
+    <string name="mealPlanCollection">Meal Plans</string>
 </resources>
